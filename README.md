@@ -12,7 +12,7 @@ This application will send you Telegram notification whenever your grades has be
 ### Telegram bot
 1. Create a Telegram Bot: [https://telegram.me/BotFather](https://telegram.me/BotFather)
 2. Set bot_token to the token of your bot
-3. Send the conversation with your bot
+3. Start the conversation with your bot
 
 ## Usage
 Deploy it to heroku to run 24 hours/day for free.
